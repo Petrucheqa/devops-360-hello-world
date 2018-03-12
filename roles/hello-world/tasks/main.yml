@@ -16,7 +16,7 @@
   file:
     state: link
     src: /etc/nginx/sites-available/hello-world
-    dest: /etc/nginx/sites-enable/hello-world
+    dest: /etc/nginx/sites-enabled/hello-world
 
 - name: Create html folder
   file:
