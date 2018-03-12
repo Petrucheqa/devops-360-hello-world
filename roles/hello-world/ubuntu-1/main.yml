@@ -1,0 +1,4 @@
+---
+# defaults file for hello-world
+
+hello_world_msg: 'from ubuntu-1 of the world !'
